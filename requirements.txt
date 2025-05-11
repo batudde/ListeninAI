@@ -1,0 +1,7 @@
+Django==5.2.1
+djangorestframework==3.16.0
+django_heroku
+gunicorn
+dj_database_url
+django-cors-headers
+google.generativeai
